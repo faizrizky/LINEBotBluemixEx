@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: <LINEBotBluemixEx>
-  host: <LineBotEx>
+  name: <LineBotEx>
+  host: <LINEBotBluemixEx>
   disk_quota: 1024M
